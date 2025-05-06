@@ -6,6 +6,26 @@ I denna övning ska du och en partner öva på arbetsflödet i trunk-based devel
 
 För att göra denna övning behöver du vara tillagd som collaborator på detta git repo.
 
+## Gruppindelning 
+
+Para ihop er två och två inom er grupp och välj en av funktionerna för er grupp:
+
+### Fast Commits
+- is_even
+- count_vowels
+
+### Push Pistols
+- reverse_string
+- is_palindrome
+
+### The Pipelines
+- sum_of_squares
+- factorial
+
+### Rebasers
+- fibonacci
+- most_common_char
+
 ## Uppgiften
 
 Ni ska jobba två och två. Arbeta enligt trunk-based development och test-driven development (TDD) med feature flags.
